@@ -9,7 +9,7 @@ export default function MobileNav() {
     { id: 'home', icon: Home, label: 'Главная', href: '#' },
     { id: 'search', icon: Search, label: 'Поиск', href: '#tours' },
     { id: 'saved', icon: Heart, label: 'Избранное', href: '#' },
-    { id: 'telegram', icon: Send, label: 'Telegram', href: 'https://t.me/tashkent_travel', external: true },
+    { id: 'telegram', icon: Send, label: 'Telegram', href: 'https://t.me/travelbook_uz', external: true },
   ];
 
   return (
