@@ -69,13 +69,13 @@ export default function Navbar() {
             </div>
 
             <motion.a
-              href="tel:+998901234567"
+              href="tel:+998946560036"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="flex items-center space-x-2 bg-[#FFD700] text-[#0F4C81] px-6 py-3 rounded-full font-bold shadow-lg hover:shadow-xl transition-shadow"
             >
               <Phone size={20} />
-              <span className="hidden xl:inline">+998 90 123 45 67</span>
+              <span className="hidden xl:inline">+998 94 656 00 36</span>
               <span className="xl:hidden">{language === 'RU' ? 'Позвонить' : "Qo'ng'iroq"}</span>
             </motion.a>
           </div>
@@ -132,7 +132,7 @@ export default function Navbar() {
                   </button>
                 </div>
                 <a
-                  href="tel:+998901234567"
+                  href="tel:+998946560036"
                   className="flex items-center space-x-2 bg-[#FFD700] text-[#0F4C81] px-4 py-2 rounded-full font-bold"
                 >
                   <Phone size={18} />
