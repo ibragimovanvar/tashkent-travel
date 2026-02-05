@@ -139,7 +139,7 @@ export default function WhyUs() {
                 className="flex flex-col sm:flex-row gap-4 justify-center"
               >
                 <motion.a
-                  href="tel:+998901234567"
+                  href="tel:+998946560036"
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
                   className="inline-flex items-center justify-center space-x-2 bg-[#FFD700] text-[#0F4C81] px-8 py-4 rounded-full font-bold text-lg shadow-xl hover:shadow-2xl transition-all"
@@ -149,7 +149,7 @@ export default function WhyUs() {
                 </motion.a>
 
                 <motion.a
-                  href="https://t.me/tashkent_travel"
+                  href="https://t.me/travelbook_uz"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.05 }}
@@ -170,7 +170,7 @@ export default function WhyUs() {
                 transition={{ delay: 0.5 }}
                 className="text-white/70 mt-6 text-sm"
               >
-                +998 90 123 45 67 • info@tashkent.travel • Ежедневно с 9:00 до 21:00
+                +998 94 656 00 36 • info@tashkent.travel • Ежедневно с 9:00 до 21:00
               </motion.p>
             </div>
           </div>
